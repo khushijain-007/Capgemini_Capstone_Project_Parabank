@@ -1,0 +1,12 @@
+{
+  "loginUser": {
+    "username": "Khushi",
+    "password": "123456"
+  },
+
+  "transferDetails": {
+    "amount": "1000",
+    "fromAccount": "15009",
+    "toAccount": "19116"
+  }
+}

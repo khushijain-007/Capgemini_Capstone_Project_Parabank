@@ -1,0 +1,13 @@
+{
+  "id": 15986,
+  "firstName": "Khushi",
+  "lastName": "Jain",
+  "address": {
+    "street": "402-A",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "zipCode": "324005"
+  },
+  "phoneNumber": "9351505869",
+  "ssn": "xyz"
+}

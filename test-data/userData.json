@@ -1,0 +1,19 @@
+{
+  "registerUser": {
+    "firstName": "Khushi",
+    "lastName": "Jain",
+    "street": "402-A",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "zipCode": "324005",
+    "phoneNumber": "9351505869",
+    "ssn": "xyz",
+    "username": "Khushi",
+    "password": "123456"
+  },
+
+  "loginUser": {
+    "username": "Khushi",
+    "password": "123456"
+  }
+}
